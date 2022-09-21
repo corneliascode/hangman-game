@@ -11,4 +11,4 @@ It is used in order to randomly select a word from a word database or from onlin
 More info about it and how to install - https://pypi.org/project/Random-Word/
 
 **a large cup of coffee**
-because it is much easier to code or to play this game with a cup of coffee :)))
+because it is much easier to code with a cup of coffee :)))
